@@ -141,60 +141,14 @@
 ## 📈 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=incu6us&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true" alt="GitHub Stats" width="48%">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=incu6us&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Top Languages" width="48%">
+  <img src="https://github-readme-stats.vercel.app/api?username=incu6us&show_icons=true&theme=dark&hide_border=true" alt="GitHub Stats" width="48%">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=incu6us&layout=compact&theme=dark&hide_border=true" alt="Top Languages" width="48%">
 </p>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com/?user=incu6us&theme=tokyonight&hide_border=true" alt="GitHub Streak" width="48%">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=incu6us&theme=tokyo-night&hide_border=true&area=true" alt="Contribution Graph" width="48%">
+  <img src="https://streak-stats.demolab.com/?user=incu6us&theme=dark&hide_border=true" alt="GitHub Streak" width="48%">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=incu6us&theme=github-compact&hide_border=true" alt="Contribution Graph" width="48%">
 </p>
-
----
-
-## 💼 Professional Experience
-
-### 🏢 Internet Chess Club (US Company)
-**Software Architect / Technical Lead / Senior Software Engineer (Go)** | *Jan 2019 – Present*
-- 🚀 Led development of a new platform from scratch
-- 🏗️ Defined architecture, set up DevOps and implemented coding standards
-- 👥 Mentored team members and conducted code reviews
-- 🛠️ **Tech:** Go, SingleStore, MariaDB, Redis, NATS, gRPC, Kubernetes, Jenkins, Ansible, Terraform, AWS, Vault
-
-### 🏢 SoftServe (US Client)
-**Technical Lead / Senior Software Engineer (Go)** | *Feb 2021 – Jan 2024*
-- 🎯 Led multiple services: tax, invoice and integration platforms
-- ✅ Successfully deployed two major services to production
-- 🛠️ **Tech:** Go, Postgres, Redis, Cassandra, Kafka, Docker, GitLab, ELK, GraphQL, AWS
-
-### 🏢 OpenTag (MD Company)
-**Senior Software Engineer (Go)** | *Jan 2019 – Jan 2020*
-- 💰 Built wallet and promotion services offering user bonuses
-- 🛠️ **Tech:** Go, Thrift, Postgres, Redis, Kafka, Godog, Docker, GitLab, Jaeger, K8s
-
-### 🏢 BrightLocal (UK Company)
-**Senior Software Engineer / DevOps** | *Jan 2016 – Jan 2017*
-- 🔍 Developed web scrapers, screenshot tools and monitoring systems
-- 🛠️ **Tech:** Go, Beego, Redis, RabbitMQ, Docker, ClickHouse, ElasticSearch
-
-<details>
-<summary><b>View Earlier Experience</b></summary>
-
-### EGT (MD Company)
-**Senior Software Engineer (Go/Java)** | *Jan 2017 – Jan 2019*
-- Created [Protobuf code generator](https://github.com/EGT-Ukraine/protobuf-generator)
-- Developed GitLab trigger tools and Jenkins deployment plugin
-
-### IntroPro (US Company)
-**Software Engineer / DevOps Engineer** | *Jan 2014 – Jan 2015*
-- Developed UI and APIs for managing Cloudera clusters on AWS
-
-### life:) (Ukraine)
-**Leading Voice & Web Self-Services Engineer** | *Jan 2011 – Jan 2014*
-- Built a high-throughput SMS/MMS bulk messaging platform
-- Maintained systems and implemented automation for internal tools
-
-</details>
 
 ---
 
