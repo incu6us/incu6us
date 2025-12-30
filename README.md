@@ -19,7 +19,7 @@
 
 ## 🚀 About Me
 
-**Senior Software Engineer** with **15+ years of experience**, including **8+ years specializing in Go**. Currently serving as **Software Architect & Technical Lead** at Internet Chess Club.
+**Senior Software Engineer** with **16+ years of experience**, including **8+ years specializing in Go**. Currently serving as **Software Architect & Technical Lead** at Internet Chess Club.
 
 🎯 **Expert in:**
 - Building **event-driven, cloud-native microservices**
