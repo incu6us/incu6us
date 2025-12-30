@@ -96,48 +96,6 @@
 
 ---
 
-## 🌟 Featured Projects
-
-### [🔧 goimports-reviser](https://github.com/incu6us/goimports-reviser) ![Stars](https://img.shields.io/github/stars/incu6us/goimports-reviser?style=social)
-**Right imports sorting & code formatting tool (goimports alternative)**
-- 708+ stars, 77 forks
-- Essential tool for Go developers to maintain clean and organized imports
-- Featured in multiple Go development workflows
-
-### [🤖 open-context](https://github.com/incu6us/open-context) ![Stars](https://img.shields.io/github/stars/incu6us/open-context?style=social)
-**High-performance MCP (Model Context Protocol) server for AI assistants**
-- Provides up-to-date documentation for programming languages, frameworks and tools
-- Integrates with Claude Desktop, Cursor and Claude Code
-- Smart caching with configurable TTL, dual transport modes (stdio/HTTP)
-- Supports Go, JavaScript, Python, Rust, Docker, Kubernetes, Terraform and more
-
-### [📊 gostruct2graphql](https://github.com/incu6us/gostruct2graphql)
-**Transform Go structures into GraphQL objects**
-- Simplifies GraphQL schema generation from existing Go code
-- Accelerates API development workflows
-
-### [📞 asterisk-ami-api](https://github.com/incu6us/asterisk-ami-api)
-**Call, SMS and CDR APIs for Asterisk systems**
-- Complete API interface for Asterisk Manager Interface (AMI)
-- Enables seamless telephony integration
-
-### [🔌 proxy-chrome-extension](https://github.com/incu6us/proxy-chrome-extension)
-**Browser extension for proxy configuration management**
-- 25 stars, simplifies proxy switching for developers
-- Enhances productivity for web developers
-
-### [🧪 redis-mock-template](https://github.com/incu6us/redis-mock-template)
-**Stateful Redis mock for testing Java applications**
-- Enables comprehensive testing without Redis instance
-- Improves test reliability and speed
-
-### [💧 liqueur-sensor](https://github.com/incu6us/liqueur-sensor)
-**IoT firmware for water leakage detection**
-- Built with C++ for embedded systems
-- Battery monitoring and alert capabilities
-
----
-
 ## 📈 GitHub Stats
 
 <p align="center">
@@ -170,11 +128,7 @@
 
 ## 📚 Publications & Articles
 
-- 📝 [**Golang imports sorting/grouping hell and painless tool to solve it**](https://medium.com/vyacheslavpryimak/golang-imports-sorting-grouping-hell-and-painless-tool-to-solve-it-6c8448d1fdf7)
-  - In-depth article about Go import management and the creation of goimports-reviser
-
-- 📝 [**Quick backend prototyping with Java, Spring Boot and Redis Mock Template**](https://medium.com/vyacheslavpryimak/quick-backend-prototyping-with-java-spring-boot-and-redis-mocktemplate-7b20b01f34ee)
-  - Guide to rapid backend development using Redis mocking
+📝 Read my technical articles on [Medium](https://vyacheslavpryimak.medium.com) covering Go development, developer tools and backend architecture
 
 ---
 
@@ -229,7 +183,7 @@ I'm always interested in collaborating on interesting projects, especially in th
 ---
 
 <p align="center">
-  <i>⚡ Fun fact: One of my projects is preserved in the GitHub Arctic Code Vault in Svalbard, Norway, contributing to the preservation of open-source software for future generations!</i>
+  <i>⚡ Fun fact: Couple of my projects is preserved in the GitHub Arctic Code Vault in Svalbard, Norway, contributing to the preservation of open-source software for future generations!</i>
 </p>
 
 ---
