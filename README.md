@@ -11,7 +11,7 @@
 <p align="center">
   <a href="mailto:vyacheslavpryimak@gmail.com"><img src="https://img.shields.io/badge/Email-vyacheslavpryimak%40gmail.com-red?style=flat-square&logo=gmail&logoColor=white" alt="Email"></a>
   <a href="https://linkedin.com/in/viacheslav-pryimak"><img src="https://img.shields.io/badge/LinkedIn-viacheslav--pryimak-blue?style=flat-square&logo=linkedin" alt="LinkedIn"></a>
-  <img src="https://img.shields.io/badge/Location-Kyiv,%20Ukraine-blue?style=flat-square&logo=googlemaps&logoColor=white" alt="From">
+  <img src="https://img.shields.io/badge/From-Kyiv,%20Ukraine-blue?style=flat-square&logo=googlemaps&logoColor=white" alt="From">
   <img src="https://img.shields.io/github/followers/incu6us?style=flat-square&logo=github" alt="Followers">
 </p>
 
