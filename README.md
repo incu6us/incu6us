@@ -183,12 +183,6 @@ I'm always interested in collaborating on interesting projects, especially in th
 ---
 
 <p align="center">
-  <i>⚡ Fun fact: Couple of my projects is preserved in the GitHub Arctic Code Vault in Svalbard, Norway, contributing to the preservation of open-source software for future generations!</i>
-</p>
-
----
-
-<p align="center">
   <img src="https://komarev.com/ghpvc/?username=incu6us&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views">
 </p>
 
