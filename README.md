@@ -1,4 +1,4 @@
-<h1 align="center">👋 Hi, I'm Viacheslav Pryimak</h1>
+<h1 align="center">👋 Hi, I'm Viacheslav(Slava) Pryimak</h1>
 <h3 align="center">Software Engineer | Technical Lead | Software Architect | Open Source Maintainer</h3>
 <h4 align="center">Developer of Things / Provider of Values</h4>
 
